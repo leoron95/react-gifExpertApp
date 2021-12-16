@@ -1,0 +1,2 @@
+@import url(https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&display=swap);body{background:#020024;background:linear-gradient(90deg,#020024,#090979 0,#00d4ff);color:#fff;font-family:"Roboto",sans-serif;padding:50px}input{width:100%;font-size:1.3rem}.card-grid{display:flex;flex-direction:row;flex-wrap:wrap}.card{align-content:center;border:1px solid grey;border-radius:6px;overflow:hidden;margin-bottom:10px;margin-right:10px}.card p{padding:5px;text-align:center}.card img{max-height:170px}h2{text-align:center}
+/*# sourceMappingURL=main.b4a8444f.chunk.css.map */
